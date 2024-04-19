@@ -1,0 +1,10 @@
+# VS code preferences
+.vscode/
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+
+# Logs #
+*.log
+
