@@ -6,11 +6,15 @@
 1. [Installing Live Server](#live-server)
 1. [Using this template](#usage)
 
-## About this template<a id="about"></a>
+<a id="about"></a>
+
+## About this template
 
 This template gives you a starting point for your website. It has some sample pages and sets out a well-defined file structure.
 
-## Installing Live Server in Visual Studio Code<a id="live-server"></a>
+<a id="live-server"></a>
+
+## Installing Live Server in Visual Studio Code
 
 Live Server lets you see your webpage as you build it. We'll set it up first because it makes it **much easier** to see the effects of our changes as we make them.
 
@@ -25,12 +29,14 @@ Live Server lets you see your webpage as you build it. We'll set it up first bec
 
 To preview your website:
 
-1. Select the HTML file you want to preview.
+1. Select the HTML file you want to preview. e.g. `index.html`
 2. Click **Go Live** in the status bar at the bottom right of VSCode.
 3. Your default web browser will open automatically, showing your page.
 4. Leave the browser tab open. It will update your page as you edit your HTML and CSS.
 
-## Using this template<a id="usage"></a>
+<a id="usage"></a>
+
+## Using this template
 
 ### Start by modifying `index.html`
 
@@ -42,5 +48,6 @@ To preview your website:
 
 ### Rename the sample pages
 
-- **Rename samples**: `page2.html` and `page3.html` are sample pages. You should **rename these** - give them short, meaningful names. e.g. _learn-more.html_, _about.html_
+- **Rename samples**: `page2.html` and `page3.html` are sample pages. You should **rename these**, with short, meaningful names.<br/>
+  e.g. _about.html_, _contact.html_, _the-rules.html_, _learn-more.html_, etc.
 - **Update nav in index**: Update the `<a>` links in `<nav>` in `index.html` to use the new filenames.
