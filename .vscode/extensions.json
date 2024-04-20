@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ritwickdey.liveserver"
+    ],
+    "unwantedRecommendations": [
+        // List any extensions you recommend avoiding
+    ]
+}
